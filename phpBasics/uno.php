@@ -1,5 +1,5 @@
 <?php
-$user = "Carlos";
+/*$user = "Carlos";
 $password = "123";
 
 
@@ -14,7 +14,30 @@ if($_POST['usuario'] == $user  && $_POST['password'] == $password){
     echo "<a href='index.php'>Intentar nuevamente</a>";
 
 
-}
+}*/
+
+/*$miPais = $_POST['pais'];
+
+setcookie("estado",$miPais, time() + 3600);
+
+echo $_COOKIE['estado'];*/
+/*
+$asunto = $_POST['asunto'];
+$mensaje = $_POST['mensaje'];
+
+$solicitud = fopen("texto.txt","a")or die("No se pudo abrir");
+fwrite($solicitud,"ASUNTO: ");
+fwrite($solicitud,"\r\n");
+fwrite($solicitud,$asunto);
+fwrite($solicitud,"\r\n");
+fwrite($solicitud,"MENSAJE: ");
+fwrite($solicitud,"\r\n");
+fwrite($solicitud,$mensaje);
+
+echo "La operacion fue correcta";
+
+fclose($solicitud);*/
+
 
 
 ?>

@@ -1,0 +1,7 @@
+ASUNTO: 
+Envio de paquete
+MENSAJE: 
+El paquete solicitado fue enviado a su empresa desde el dia sabado para poder ser evaluado segun sus requerimientosASUNTO: 
+Recepcion de paquete
+MENSAJE: 
+Todo fue recibido correctamente. Estamos esperando la llamada de los jefes para poder recuperar las claves de acceso al mismo.
