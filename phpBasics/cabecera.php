@@ -15,3 +15,8 @@
     <li><a href="#">TERMINOS</a></li>
     </ul>
 <content>
+
+<?php
+
+//require, include, require_once,include_once
+?>
